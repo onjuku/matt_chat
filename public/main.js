@@ -229,7 +229,7 @@ $(function() {
   socket.on('login', function (data) {
     connected = true;
     // Display the welcome message
-    var message = "Welcome to MattWebster.com Chat – ";
+    var message = "Welcome to Matt Chat – ";
     log(message, {
       prepend: true
     });
