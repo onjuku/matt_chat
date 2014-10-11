@@ -1,3 +1,6 @@
+(Please see the original repository [here](https://github.com/Automattic/socket.io))
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 # node-js-getting-started
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).

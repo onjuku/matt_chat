@@ -1,0 +1,7 @@
+{
+  "name": "Matt Chat",
+  "description": "Bastardized version of Automattic/socket.io + Twilio to txt me by typing t:<message>",
+  "repository": "https://github.com/onjuku/matt_chat",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"]
+}
